@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
-  name = 'SCHLOADER',         # How you named your package folder (MyLib)
-  packages = ['SCHLOADER'],   # Chose the same as "name"
-  version = '0.1.1',      # Start with a small number and increase it with every change you make
+  name = 'schloader',         # How you named your package folder (MyLib)
+  packages = ['schloader'],   # Chose the same as "name"
+  version = '0.1.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Library to upload SAP downloaded file into a DB',   # Give a short description about your library
   author = 'Michael Huwiler',                   # Type in your name
